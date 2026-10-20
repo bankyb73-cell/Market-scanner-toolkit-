@@ -1,0 +1,7 @@
+# Only needed for sentiment/sentiment_scanner.py (FinBERT downloads ~400 MB on first run)
+-r requirements.txt
+feedparser>=6.0
+beautifulsoup4>=4.12
+nltk>=3.8
+transformers>=4.40
+torch>=2.2
