@@ -26,7 +26,7 @@ years: readable and hackable, but not production trading systems.
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/market-scanner-toolkit.git
+git clone https://github.com/bankyb73/market-scanner-toolkit.git
 cd market-scanner-toolkit
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
